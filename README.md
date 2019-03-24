@@ -1,3 +1,3 @@
-# giphyapi
+# React Giphy API
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/giphyapi)
+Simple React App used to do display data from Giphy API.
